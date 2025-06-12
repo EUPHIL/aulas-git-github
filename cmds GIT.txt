@@ -14,7 +14,8 @@ mkdir : cria uma nova pasta (EX: mkdir aula_git)
 cat "nome do arquivo" : Acessa o conteudo do arquivo
 
 git init . : Inicializa um repositorio GIT naquela pasta 
-rm -rf .git : Exclui essa inicializacao GIT 
+rm : remove o arquivo do diretorio
+rm -rf .git : remove de forma recurssiva e forcada todos diretorios 
 
 ->-> COMANDOS GIT <-<- 
 get status : Traz as informacoes daquela pasta repositorio
@@ -33,7 +34,16 @@ para verificar se foi add {
 }
 
 
-git commi -m "nome/descricao" : cria uma commit
+git commi -m "nome/descricao" : cria uma commit / confirma a criacao
 ex : [main (root-commit) e9a4bae(eh o id unico da commit)] 
 primeiros comandos
+
+
+nano "nome qualquer.txt" : para abrir o editor de texto do GIT BASH
+	{ Para salvar: CTRL+o
+	{ Para sair: CTRL+x 
+
+
+git log: Para verificar as commits 
+
 
