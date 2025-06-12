@@ -22,3 +22,18 @@ get status : Traz as informacoes daquela pasta repositorio
 get add 'nome arquivo': ajuda a adicionar o que eu quero ao commit, ou seja, 
 torna 'trackeavel' algum arquuivo.
 
+
+//cada commit precisa de um prop / responsavel com email e nome 
+git config --global user.email "email@.com" : adiciona um email
+git config --global user.name "nome" : adiciona um nome
+
+para verificar se foi add { 
+	git config --global user.email 
+	git config --global user.name 
+}
+
+
+git commi -m "nome/descricao" : cria uma commit
+ex : [main (root-commit) e9a4bae(eh o id unico da commit)] 
+primeiros comandos
+
