@@ -1,0 +1,24 @@
+ls : abre toda a "pasta"
+
+cd Deskttop : Muda o diretorio para a Area de Trabalho
+
+pwd: Mostra oo caminho (EX: /c/Users/Philipe/Desktop)
+
+'.' e '..' : Sao arquivos ocultos 
+'..' : Eh a pasta anterior a atua
+'.': Eh a propia pasta atual
+ls -a : Mostra os arquivos ocultos 
+
+mkdir : cria uma nova pasta (EX: mkdir aula_git)
+
+cat "nome do arquivo" : Acessa o conteudo do arquivo
+
+git init . : Inicializa um repositorio GIT naquela pasta 
+rm -rf .git : Exclui essa inicializacao GIT 
+
+->-> COMANDOS GIT <-<- 
+get status : Traz as informacoes daquela pasta repositorio
+
+get add 'nome arquivo': ajuda a adicionar o que eu quero ao commit, ou seja, 
+torna 'trackeavel' algum arquuivo.
+
