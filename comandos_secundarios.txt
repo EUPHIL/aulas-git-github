@@ -1,1 +1,4 @@
 Esse arquuivo contem infos adiicionais 
+
+primeiro comando
+segundo comando 
