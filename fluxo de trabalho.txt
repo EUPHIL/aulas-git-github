@@ -1,0 +1,9 @@
+1. Criar o diretorio 
+2. Iniciar o git dentro do diretorio criado (git init .)
+3. Editar ou criar arquivos
+4. git status
+5 . git add <nome arquivo>
+6. git status
+7. git commit -m "descrricao"
+8. git status
+9. Voltar ao passo 3 
