@@ -1,4 +1,12 @@
 Esse arquuivo contem infos adiicionais 
+<<<<<<< HEAD
 
-primeiro comando
-segundo comando 
+
+=======
+primeiro e segundo comando
+
+mais comandos 
+nwjgbsuj'
+fskhnfkshkjffs
+sbjsbg
+>>>>>>> secundaria
