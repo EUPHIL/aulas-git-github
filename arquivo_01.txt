@@ -1,1 +1,2 @@
-Que bag doido!! EEsse cirso de GIT
+<<<<<<< HEAD
+Que bag doido!! Esse cirso de GIT
